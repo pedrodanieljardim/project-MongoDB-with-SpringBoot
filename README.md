@@ -7,10 +7,10 @@
 
 ## Principais Objetivos ao desenvolver esse projeto
 
-- Compreender as principais diferenças entre o paradigma orientado a documentos e o relacional
-- Implementar operações CRUD
-- Reflita sobre decisões de design para um banco de dados orientado a documentos
-- implementar associações entre objetos: objetos aninhados e referências
+- Compreender as principais diferenças entre o paradigma orientado a documentos e o relacional.
+- Implementar operações CRUD.
+- Reflitir sobre decisões de design para um banco de dados orientado a documentos.
+- implementar associações entre objetos: objetos aninhados e referências.
 - Realizar consultas com o Spring Data e o MongoRepository.
 
 ## Como contribuir
