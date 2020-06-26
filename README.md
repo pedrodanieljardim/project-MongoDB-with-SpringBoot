@@ -1,5 +1,5 @@
 <h1 align="center">
-    API rest java
+    API restful java
 </h1>
 
 ![](https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000) ![](https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000)
