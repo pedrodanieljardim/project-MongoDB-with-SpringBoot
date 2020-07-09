@@ -1,8 +1,22 @@
-<h1 align="center">
+<h1>
     API restful java
 </h1>
 
-![](https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000) ![](https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000)
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/pedrodanieljardim/api-RESTFUL-java"> 
+  <a href="https://github.com/pedrodanieljardim/api-RESTFUL-java">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrodanieljardim/AirCnC">
+  </a>
+    <a href="https://github.com/pedrodanieljardim/api-RESTFUL-java">
+    <img alt="Forks" src="https://img.shields.io/github/forks/pedrodanieljardim/api-RESTFUL-java">
+  </a>
+    
+  <a href="https://github.com/pedrodanieljardim/api-RESTFUL-java">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrodanieljardim/api-RESTFUL-java">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 
 
 ## Principais Objetivos ao desenvolver esse projeto
