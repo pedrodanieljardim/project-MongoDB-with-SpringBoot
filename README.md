@@ -1,8 +1,8 @@
-<h1>
+<h1 align="center">
     API restful java
 </h1>
 
-<p>
+<p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/pedrodanieljardim/api-RESTFUL-java"> 
   <a href="https://github.com/pedrodanieljardim/api-RESTFUL-java">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrodanieljardim/AirCnC">
@@ -18,26 +18,15 @@
 </p>
 
 
+## Main Objectives when developing this project
 
-## Principais Objetivos ao desenvolver esse projeto
+- Understand the main differences between the document-oriented and the relational paradigm.
+- Implement CRUD operations.
+- Reflect on design decisions for a document-oriented database.
+- implement associations between objects: nested objects and references.
+- Perform queries with Spring Data and MongoRepository.
 
-- Compreender as principais diferenças entre o paradigma orientado a documentos e o relacional.
-- Implementar operações CRUD.
-- Reflitir sobre decisões de design para um banco de dados orientado a documentos.
-- implementar associações entre objetos: objetos aninhados e referências.
-- Realizar consultas com o Spring Data e o MongoRepository.
+## License
+this repository is available under the [MIT] license.
 
-## Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
-
+[MIT]: https://opensource.org/licenses/mit-license.php
